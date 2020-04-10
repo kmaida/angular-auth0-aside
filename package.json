@@ -21,7 +21,7 @@
     "@angular/platform-browser": "6.1.9",
     "@angular/platform-browser-dynamic": "6.1.9",
     "@angular/router": "6.1.9",
-    "auth0-js": "^9.8.0",
+    "auth0-js": "^9.13.2",
     "core-js": "^2.4.1",
     "rxjs": "^6.3.3",
     "zone.js": "^0.8.26"
